@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... Freelance & Personal Projects
 - 🤔 I’m looking for help with ... ReactJS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](charleskimani.com/linkedin) or [WhatsApp](https://wa.link/b4jc6g)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kimanicharles/) or [WhatsApp](https://wa.link/b4jc6g)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have 224 Honors & a 6Kyu Rank at [Codewars](https://www.codewars.com/users/kimanicharles911)
 
