@@ -3,8 +3,9 @@
 
 
 - 🔭 I’m currently working on ... Freelance Projects
+- 🥅 Real World Project in progress (None Tutorial) : [Sure-Tuch Creations](https://github.com/kimanicharles911/suretuch_w_react_js)
 - 🌱 I’m currently learning ... ReactJS, NodeJS(Express), MongoDB 
-- 👯 I’m looking to collaborate on ... Freelance & Personal Projects
+- 👯 I’m looking to collaborate on ... Freelance, Personal, Open Source and fellow developer's projects
 - 🤔 I’m looking for help with ... ReactJS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kimanicharles/) or [WhatsApp](https://wa.link/b4jc6g)
