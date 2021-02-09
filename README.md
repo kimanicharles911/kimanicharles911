@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with ... ReactJS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kimanicharles/) or [WhatsApp](https://wa.link/b4jc6g)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have 232 Honors & a 6Kyu Rank at [Codewars](https://www.codewars.com/users/kimanicharles911)
 
 **Languages and Tools:**  
