@@ -1,12 +1,7 @@
-### My name is Charles Kimani and I'm a Front-End <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> Redux & <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript Developer! 👋
+### Learning JavaScript, React and Redux.
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> 
 
-
-
-- 🔭 I’m currently working on ... Real World Projects
-- 🥅 Real World Project in progress (None Tutorial) : [Sure-Tuch Creations](https://github.com/kimanicharles911/suretuch_w_react_js)
-- 🌱 I’m currently learning ... ReactJS, Redux, Next.JS & Firebase 
-- 👯 I’m looking to collaborate on ... Freelance, Personal, Open Source and fellow developer's projects
-- 🤔 I’m looking for help with ... ReactJS, Redux, Next.JS & Firebase
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kimanicharles/) or [WhatsApp](https://wa.link/b4jc6g)
 - ⚡ Fun fact: ... I have 238 Honors & a 6Kyu Rank at [Codewars](https://www.codewars.com/users/kimanicharles911)
