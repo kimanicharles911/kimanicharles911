@@ -1,14 +1,15 @@
-<p align="center" style="align: center;">
-▪️ <a href="https://reactjs.org/docs/getting-started.html">Reactjs</a>
+<div align="center" style="align: center;">
+<h5 style="display: inline;">Tool Box 🧰: </h5>
+  <a href="https://reactjs.org/docs/getting-started.html">Reactjs</a>
 ▪️ <a href="https://redux.js.org/introduction/getting-started">Redux</a>
 ▪️ <a href="https://nextjs.org/">Nextjs</a>
 ▪️ <a href="https://nodejs.org/en/about/">Nodejs</a>
 ▪️ <a href="https://expressjs.com/">Expressjs</a>
 ▪️ <a href="https://www.mongodb.com/">MongoDB</a>
 ▪️ <a href="https://www.fastify.io/">Fastify</a>
-</p>
+</div>
 
-<p align="center" style="align: center;">
+<div align="center" style="align: center;">
   <a href="https://reactjs.org/docs/getting-started.html">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   </a>
@@ -30,4 +31,4 @@
   <a href="https://www.fastify.io/">
     <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
   </a>
-</p>
+</div>
