@@ -1,5 +1,3 @@
-<h4 align="center">Technologies I develop with:</h4>
-
 <p align="center" style="align: center;">
 ▪️ <a href="https://reactjs.org/docs/getting-started.html">Reactjs</a>
 ▪️ <a href="https://redux.js.org/introduction/getting-started">Redux</a>
