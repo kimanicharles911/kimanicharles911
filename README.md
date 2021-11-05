@@ -1,18 +1,5 @@
-**Intermediate Learner JavaScript, React and Redux (Front-End).**
+<h5 align="left">Technologies I develop with:</h5>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> 
+▪️ [Reactjs](https://github.com/topics/react) ▪️ [Redux](https://github.com/topics/redux) ▪️ [Nextjs](https://github.com/topics/nextjs) ▪️ [Nodejs](https://github.com/topics/nodejs) ▪️ [Expressjs](https://github.com/topics/express) ▪️ [MongoDB](https://github.com/topics/mongodb) ▪️ [Fastify](https://github.com/topics/fastify)
 
-- 🥇[Sure-Tuch Creations](https://github.com/kimanicharles911/suretuch_w_react_js)
-- 🥈[Weather App](https://github.com/kimanicharles911/weather_app_w_graphql_api_and_react)
-- 🥉[Vote Counting App](https://github.com/kimanicharles911/vote_counting_app_w_redux_react)
-- 🏅[Counter App](https://github.com/kimanicharles911/counter_app_w_redux_react)
-- 🎖️[Social Cards Web App](https://github.com/kimanicharles911/social_cards_web_app_w_react_and_api)
-- 🏆[Movie Shop](https://github.com/kimanicharles911/movie_shop_w_react)
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kimanicharles/) or [WhatsApp](https://wa.link/b4jc6g)
-
-**Plus:** <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/topics/react) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/topics/redux) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/topics/nextjs) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/topics/nodejs) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/topics/express) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/topics/mongodb) [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://github.com/topics/fastify) 
