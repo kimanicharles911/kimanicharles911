@@ -1,5 +1,6 @@
 <div align="center" style="align: center;">
 ▪️ <a href="https://reactjs.org/docs/getting-started.html">Reactjs</a>
+▪️ <a href="https://redux.js.org/introduction/getting-started">Redux</a>
 ▪️ <a href="https://nextjs.org/">Nextjs</a>
 ▪️ <a href="https://nodejs.org/en/about/">Nodejs</a>
 ▪️ <a href="https://expressjs.com/">Expressjs</a>
@@ -10,6 +11,9 @@
 <div align="center" style="align: center;">
   <a href="https://reactjs.org/docs/getting-started.html">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  </a>
+  <a href="https://redux.js.org/introduction/getting-started">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   </a>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
