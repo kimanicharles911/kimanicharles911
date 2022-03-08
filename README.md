@@ -1,4 +1,5 @@
 <div align="center" style="align: center;">
+▪️ <a href="https://www.typescriptlang.org/">TypeScript</a>
 ▪️ <a href="https://reactjs.org/docs/getting-started.html">Reactjs</a>
 ▪️ <a href="https://redux.js.org/introduction/getting-started">Redux</a>
 ▪️ <a href="https://nextjs.org/">Nextjs</a>
